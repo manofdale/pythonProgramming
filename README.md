@@ -1,3 +1,3 @@
-# pythonProgramming
+# python programming demo
 some random puzzle questions solved in python 3
-implemented strictly for fun!
+implemented by me, strictly for fun!
