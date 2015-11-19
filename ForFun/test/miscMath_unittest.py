@@ -1,7 +1,7 @@
 '''
 Created on Aug 9, 2015
 
-@author: eon
+@author: agp
 '''
 import unittest
 from programmingPuzzles.miscMath import generatePowerSet
