@@ -1,6 +1,6 @@
 '''
 Created on Aug 10, 2015
-@author: eon
+@author: agp
 '''
 from math import floor
 from random import randint
