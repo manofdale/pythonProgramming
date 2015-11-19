@@ -1,7 +1,7 @@
 '''
 Created on Aug 9, 2015
 
-@author: eon
+@author: agp
 '''
 from math import floor, log2
 def addWithoutPlus1(a,b):
