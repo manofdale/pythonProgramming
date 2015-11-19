@@ -1,7 +1,7 @@
 '''
 Created on Aug 25, 2015
 
-@author: eon
+@author: agp
 '''
 class MyHeap(object):
     '''
