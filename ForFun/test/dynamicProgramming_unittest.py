@@ -1,7 +1,7 @@
 '''
 Created on Sep 7, 2015
 
-@author: eon
+@author: agp
 '''
 import unittest
 from programmingPuzzles.dynamicProgramming import checkHalfSum
