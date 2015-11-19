@@ -1,7 +1,7 @@
 '''
 Created on Sep 2, 2015
 
-@author: eon
+@author: agp
 '''
 import unittest
 from interviewPrepAshay.secondPhoneQuestion import segment
