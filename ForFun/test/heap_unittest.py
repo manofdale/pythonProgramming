@@ -1,7 +1,7 @@
 '''
 Created on Aug 26, 2015
 
-@author: eon
+@author: agp
 '''
 import unittest
 from programmingPuzzles.heaps import MyHeap
