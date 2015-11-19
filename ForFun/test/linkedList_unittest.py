@@ -1,7 +1,7 @@
 '''
 Created on Jul 26, 2015
 
-@author: eon
+@author: agp
 '''
 import unittest
 from programmingPuzzles.linkedList import LinkedList
