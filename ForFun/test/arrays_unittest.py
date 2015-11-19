@@ -1,7 +1,7 @@
 '''
 Created on Aug 25, 2015
 
-@author: eon
+@author: agp
 '''
 import unittest
 from programmingPuzzles.arrays import findTriplets,\
