@@ -1,7 +1,7 @@
 '''
 Created on Aug 11, 2015
 
-@author: eon
+@author: agp
 '''
 from math import floor
 from queue import Queue
